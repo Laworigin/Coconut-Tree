@@ -5,6 +5,8 @@ Coconut Tree是一款webshell管理工具。不同于市面上常见的webshell�
 
 webshell下有一个PHP后门木马，`wisdom2.php`是混淆过的PHP后门木马。将其上传至目标网站即可。
 
+`wisdom2.php`使用条件：assert和eval函数可用
+
 git下载Coconut Tree
 
 pip install -r requirements.txt   //安装第三方扩展包
